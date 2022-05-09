@@ -43,7 +43,7 @@
 
 Simple wa md
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Luigmntng/SoikemV2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MOONKIGHT/ayras)
 
 
 
