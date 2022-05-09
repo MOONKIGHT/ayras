@@ -1,14 +1,17 @@
 {
-  "name": "Soikem",
-  "description": "Hanya recode",
-  "repository": "https://github.com/luigmntng/SoikemMd",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": [
-    "bot",
-    "whatsapp",
-    "sc bot",
-    "multi-device",
-    "whatsapp-bot-multi-device",
-    "whatsapp-bot"
-  ]
+"name": "goc",
+  "description": "Lightweight WhatsApp Bot",
+  "repository": "https://github.com/MOONKIGHT/ayras/",
+  "logo": "https://raw.githubusercontent.com/D-E-V-I-L-8/Ammu/main/DEVIL/Ammu.jpeg",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot"],
+
+    "buildpacks": [
+
+        {
+
+            "url": "heroku/nodejs"
+
+        }
+
+    ]
 }
